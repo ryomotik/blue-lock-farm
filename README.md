@@ -44,7 +44,7 @@ loadfile("C:/Users/abror/.gemini/antigravity/scratch/blue-lock-farm/main.lua")()
 
 Или, если скрипт опубликован на GitHub:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/<USER>/<REPO>/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ryomotik/blue-lock-farm/main/main.lua"))()
 ```
 
 ---
